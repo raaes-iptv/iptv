@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:0,24 KZ
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:0,24 KZ
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.24kz
+#EXTINF:0,31 http://sc.id-tv.kz/31channel_36_37.m3u8
+#EXTINF:0,31 http://92.46.127.146:8080/31Channel/index.m3u8
+#EXTINF:0,7 https://sc.id-tv.kz:443/7_kanal.m3u8
+#EXTINF:0,Almaty TV HD
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:0,Altai
+http://onrez.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:0,Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:0,Atameken (http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:0,Atameken (http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:0,Atameken Business Channel HD
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:0,atyrautv
+http://onrez.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:0,Gakku
+https://sc.id-tv.kz:443/Gakku.m3u8
+#EXTINF:0,karagandytv
+http://onrez.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:0,Kazakh TV
+http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
+#EXTINF:0,Kazakh World RU
+http://kazakhtvkz.ultraiptv.com/live_kz/playlist2/index.m3u8
+#EXTINF:0,ON! http://sc.id-tv.kz/Tan.m3u8
+#EXTINF:0,oraltv
+http://onrez.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:0,Qostanai
+http://onrez.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:0,Qyzylorda (KZ)
+http://onrez.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:0,tamasha
+https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
+#EXTINF:0,TARAZ
+http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:0,http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:0,http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/Astana.m3u8
+#EXTINF:0,http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+#EXTINF:0,https://kaztv.rtrk.kz/qazaqstan_540/qazaqstan_540/index.m3u8
+#EXTINF:0,http://195.49.213.56/ktklive/live.hq/playlist.m3u8
+#EXTINF:0,https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
+#EXTINF:0,http://wz-kt.ktk.kz/ktklive/smil:live.smil/playlist.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/KTK.m3u8
+#EXTINF:0,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:0,https://kaztv.rtrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:0,https://kaztv.rtrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:0,http://sc.id-tv.kz/Mir_36_37.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/Mir24.m3u8
+#EXTINF:0,http://sc.id-tv.kz/Mir_36_37.m3u8
+#EXTINF:0,http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/New_Television.m3u8
+#EXTINF:0,http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:0,http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:0,http://sc.id-tv.kz/1KanalEvraziya.m3u8
+#EXTINF:0,http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
+#EXTINF:0,http://onrez.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:0,http://89.219.35.26:8000/radions-shanson
+#EXTINF:0,http://89.219.35.26:8000/radions-jazz
+#EXTINF:0,http://89.219.35.26:8000/radions-kz
+#EXTINF:0,http://89.219.35.26:8000/radions-lounge
+#EXTINF:0,http://89.219.35.26:8000/radions-rock
+#EXTINF:0,http://89.219.35.26:8000/radions-russian
+#EXTINF:0,http://89.219.35.26:8000/radions
+#EXTINF:0,http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/STV.m3u8
+#EXTINF:0,https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:0,https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:0,https://sc.id-tv.kz:443/Tan.m3u8
+#EXTINF:0,http://sc.id-tv.kz/TvoeTV_36_37.m3u8
+#EXTINF:0,http://sc.id-tv.kz/TvoeTV_34_35.m3u8
+#EXTINF:0,https://sc.id-tv.kz/TvoeTV_38_39.m3u8
+#EXTINF:0,http://sc.id-tv.kz/TvoeTV_36_37.m3u8
+#EXTINF:0,http://sc.id-tv.kz/Habar.m3u8
+#EXTINF:0,http://sc.id-tv.kz/HalykArna_36_37.m3u8
+#EXTINF:0,31 http://89.106.234.5:80/31Kanal_34_35.m3u8
+#EXTINF:0,7 http://89.106.234.5:80/7_kanal_34_35.m3u8
+#EXTINF:0,A2
+http://89.106.234.5:80/A2_34_35.m3u8
+#EXTINF:0,Almaty TV (KZ)
+http://89.106.234.5:80/Almaty_34_35.m3u8
+#EXTINF:0,Astana TV
+http://89.106.234.5:80/Astana_34_35.m3u8
+#EXTINF:0,Atameken Business TV (KZ)
+http://89.106.234.5:80/Atameken_34_35.m3u8
+#EXTINF:0,bober
+http://89.106.234.5:80/bober_34_35.m3u8
+#EXTINF:0,Dombyra TV
+http://89.106.234.5:80/Dombyra_34_35.m3u8
+#EXTINF:0,DW
+http://89.106.234.5:80/DW_34_35.m3u8
+#EXTINF:0,friday
+http://89.106.234.5:80/friday_34_35.m3u8
+#EXTINF:0,hdl HD
+http://89.106.234.5:80/hdl_34_35.m3u8
+#EXTINF:0,ID Fashion
+http://89.106.234.5:80/IDFashion_34_35.m3u8
+#EXTINF:0,KAZAKH TV
+http://89.106.234.5:80/KazakhTV_34_35.m3u8
+#EXTINF:0,Khabar24 https://zona-iptv.ru/
+http://89.106.234.5:80/Khabar_24_34_35.m3u8
+#EXTINF:0,MoyaPlaneta
+http://89.106.234.5:80/MoyaPlaneta_34_35.m3u8
+#EXTINF:0,Tamasha TV (KZ)
+http://89.106.234.5:80/Tamasha_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/AsylArna_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/ElArna_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/KTK_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/Mir_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/Mir24_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/New_Television_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/1KanalEvraziya_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/RenTV_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/STV_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/STS_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/TvoeTV_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/TDK-42_34_35.m3u8
+#EXTINF:0,http://89.106.234.5:80/HalykArna_34_35.m3u8

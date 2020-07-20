@@ -1,0 +1,647 @@
+#EXTM3U
+#EXTINF:-1,RTCG 1 MNE
+http://iptv.rent:8080/paroisse/paroise/13346
+#EXTINF:-1,RTCG 2 MNE
+http://iptv.rent:8080/paroisse/paroise/11039
+#EXTINF:-1,RTCG Sat MNE
+http://iptv.rent:8080/paroisse/paroise/9387
+#EXTINF:-1,TV Vijesti MNE
+http://iptv.rent:8080/paroisse/paroise/12385
+#EXTINF:-1,Prva TV CG MNE
+http://iptv.rent:8080/paroisse/paroise/16424
+#EXTINF:-1,Nova M MNE
+http://iptv.rent:8080/paroisse/paroise/5005
+#EXTINF:-1,Pink M MNE
+http://iptv.rent:8080/paroisse/paroise/638021
+#EXTINF:-1,Televizija 777 MNE
+http://iptv.rent:8080/paroisse/paroise/18916
+#EXTINF:-1,RTS 1 RS
+http://iptv.rent:8080/paroisse/paroise/4979
+#EXTINF:-1,RTS 1 (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/670712
+#EXTINF:-1,RTS 2 RS
+http://iptv.rent:8080/paroisse/paroise/4978
+#EXTINF:-1,RTS 2 (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/10408
+#EXTINF:-1,RTS 3 RS
+http://iptv.rent:8080/paroisse/paroise/4977
+#EXTINF:-1,RTS 3 (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/10407
+#EXTINF:-1,RTS Svet RS
+http://iptv.rent:8080/paroisse/paroise/11046
+#EXTINF:-1,RTS Drama RS
+http://iptv.rent:8080/paroisse/paroise/627838
+#EXTINF:-1,RTS Muzika RS
+http://iptv.rent:8080/paroisse/paroise/627837
+#EXTINF:-1,RTS Trezor RS
+http://iptv.rent:8080/paroisse/paroise/627836
+#EXTINF:-1,RTS Zivot RS
+http://iptv.rent:8080/paroisse/paroise/627835
+#EXTINF:-1,RTS Kolo RS
+http://iptv.rent:8080/paroisse/paroise/657464
+#EXTINF:-1,N1 TV HD RS
+http://iptv.rent:8080/paroisse/paroise/9392
+#EXTINF:-1,N1 TV (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/9393
+#EXTINF:-1,Nova S RS
+http://iptv.rent:8080/paroisse/paroise/5026
+#EXTINF:-1,Prva RS
+http://iptv.rent:8080/paroisse/paroise/4991
+#EXTINF:-1,Prva Max RS
+http://iptv.rent:8080/paroisse/paroise/4989
+#EXTINF:-1,Prva Plus RS
+http://iptv.rent:8080/paroisse/paroise/4990
+#EXTINF:-1,Prva Kick RS
+http://iptv.rent:8080/paroisse/paroise/23187
+#EXTINF:-1,Prva World RS
+http://iptv.rent:8080/paroisse/paroise/4988
+#EXTINF:-1,Filmbox Extra FHD RS
+http://iptv.rent:8080/paroisse/paroise/5052
+#EXTINF:-1,Filmbox Plus RS
+http://iptv.rent:8080/paroisse/paroise/5051
+#EXTINF:-1,Film Klub RS
+http://iptv.rent:8080/paroisse/paroise/12395
+#EXTINF:-1,Zadruga 1 Live RS
+http://iptv.rent:8080/paroisse/paroise/23183
+#EXTINF:-1,Zadruga 2 Live RS
+http://iptv.rent:8080/paroisse/paroise/663534
+#EXTINF:-1,Zadruga 3 Live RS
+http://iptv.rent:8080/paroisse/paroise/663535
+#EXTINF:-1,Zadruga 4 Live RS
+http://iptv.rent:8080/paroisse/paroise/663536
+#EXTINF:-1,Happy TV RS
+http://iptv.rent:8080/paroisse/paroise/5044
+#EXTINF:-1,Happy TV (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/11041
+#EXTINF:-1,Pikaboo RS
+http://iptv.rent:8080/paroisse/paroise/23180
+#EXTINF:-1, B92 RS
+http://iptv.rent:8080/paroisse/paroise/5072
+#EXTINF:-1,B92 (Backup) RS
+http://iptv.rent:8080/paroisse/paroise/9389
+#EXTINF:-1,Studio B RS
+http://iptv.rent:8080/paroisse/paroise/4973
+#EXTINF:-1,Nasha TV RS
+http://iptv.rent:8080/paroisse/paroise/13321
+#EXTINF:-1,RTV Vojvodina 1 RS
+http://iptv.rent:8080/paroisse/paroise/4976
+#EXTINF:-1,RTV Vojvodina 2 RS
+http://iptv.rent:8080/paroisse/paroise/4975
+#EXTINF:-1,RTV Novi Pazar RS
+http://iptv.rent:8080/paroisse/paroise/9385
+#EXTINF:-1,Belle Amie RS
+http://iptv.rent:8080/paroisse/paroise/629074
+#EXTINF:-1,Sandzak TV RS
+http://iptv.rent:8080/paroisse/paroise/9386
+#EXTINF:-1,GEM RTV RS
+http://iptv.rent:8080/paroisse/paroise/13328
+#EXTINF:-1,IDJ TV RS
+http://iptv.rent:8080/paroisse/paroise/11035
+#EXTINF:-1,KCN 1 RS
+http://iptv.rent:8080/paroisse/paroise/9365
+#EXTINF:-1,KCN 2 RS
+http://iptv.rent:8080/paroisse/paroise/9364
+#EXTINF:-1,KCN 3 RS
+http://iptv.rent:8080/paroisse/paroise/9363
+#EXTINF:-1,TV Duga RS
+http://iptv.rent:8080/paroisse/paroise/9369
+#EXTINF:-1,TV Hram RS
+http://iptv.rent:8080/paroisse/paroise/11029
+#EXTINF:-1,TV Istok RS
+http://iptv.rent:8080/paroisse/paroise/12386
+#EXTINF:-1,Top Sound RS
+http://iptv.rent:8080/paroisse/paroise/11028
+#EXTINF:-1,Minimax/Cinemania Plus RS
+http://iptv.rent:8080/paroisse/paroise/9370
+#EXTINF:-1,Mini Ultra TV RS
+http://iptv.rent:8080/paroisse/paroise/9358
+#EXTINF:-1,Pink RS
+http://iptv.rent:8080/paroisse/paroise/5021
+#EXTINF:-1,Pink 2 RS
+http://iptv.rent:8080/paroisse/paroise/5020
+#EXTINF:-1,Pink 3 RS
+http://iptv.rent:8080/paroisse/paroise/5019
+#EXTINF:-1,Pink Action RS
+http://iptv.rent:8080/paroisse/paroise/5018
+#EXTINF:-1,Pink Bravo RS
+http://iptv.rent:8080/paroisse/paroise/13348
+#EXTINF:-1,Pink Classic RS
+http://iptv.rent:8080/paroisse/paroise/9357
+#EXTINF:-1,Pink Comedy RS
+http://iptv.rent:8080/paroisse/paroise/5016
+#EXTINF:-1,Pink Crime & Mystery RS
+http://iptv.rent:8080/paroisse/paroise/5015
+#EXTINF:-1,Pink Extra RS
+http://iptv.rent:8080/paroisse/paroise/5014
+#EXTINF:-1,Pink Family RS
+http://iptv.rent:8080/paroisse/paroise/13351
+#EXTINF:-1,Pink Fashion RS
+http://iptv.rent:8080/paroisse/paroise/13350
+#EXTINF:-1,Pink Film RS
+http://iptv.rent:8080/paroisse/paroise/5011
+#EXTINF:-1,Pink Folk 1 RS
+http://iptv.rent:8080/paroisse/paroise/5013
+#EXTINF:-1,Pink Folk 2 RS
+http://iptv.rent:8080/paroisse/paroise/5012
+#EXTINF:-1,Pink HaHa RS
+http://iptv.rent:8080/paroisse/paroise/5010
+#EXTINF:-1,Pink Hits RS
+http://iptv.rent:8080/paroisse/paroise/5009
+#EXTINF:-1,Pink Hits 2 RS
+http://iptv.rent:8080/paroisse/paroise/11027
+#EXTINF:-1,Pink Horror RS
+http://iptv.rent:8080/paroisse/paroise/5008
+#EXTINF:-1,Pink Kids RS
+http://iptv.rent:8080/paroisse/paroise/9353
+#EXTINF:-1,Pink Koncert RS
+http://iptv.rent:8080/paroisse/paroise/9350
+#EXTINF:-1,Pink Kuvar RS
+http://iptv.rent:8080/paroisse/paroise/5007
+#EXTINF:-1,Pink LOL RS
+http://iptv.rent:8080/paroisse/paroise/5006
+#EXTINF:-1,Pink Media BH BIH
+http://iptv.rent:8080/paroisse/paroise/625454
+#EXTINF:-1,Pink Movies RS
+http://iptv.rent:8080/paroisse/paroise/9356
+#EXTINF:-1,Pink Music RS
+http://iptv.rent:8080/paroisse/paroise/9351
+#EXTINF:-1,Pink Music 2 RS
+http://iptv.rent:8080/paroisse/paroise/13349
+#EXTINF:-1,Pink & Roll RS
+http://iptv.rent:8080/paroisse/paroise/9349
+#EXTINF:-1,Pink Pedia RS
+http://iptv.rent:8080/paroisse/paroise/5004
+#EXTINF:-1,Pink Plus RS
+http://iptv.rent:8080/paroisse/paroise/5003
+#EXTINF:-1,Pink Premium RS
+http://iptv.rent:8080/paroisse/paroise/5002
+#EXTINF:-1,Pink Reality RS
+http://iptv.rent:8080/paroisse/paroise/5001
+#EXTINF:-1,Pink Romance RS
+http://iptv.rent:8080/paroisse/paroise/5000
+#EXTINF:-1,Pink SciFi Fantasy RS
+http://iptv.rent:8080/paroisse/paroise/4997
+#EXTINF:-1,Pink Serije RS
+http://iptv.rent:8080/paroisse/paroise/4999
+#EXTINF:-1,Pink Show RS
+http://iptv.rent:8080/paroisse/paroise/4998
+#EXTINF:-1,Pink Soap RS
+http://iptv.rent:8080/paroisse/paroise/4996
+#EXTINF:-1,Pink Style RS
+http://iptv.rent:8080/paroisse/paroise/16427
+#EXTINF:-1,Pink Super Kids RS
+http://iptv.rent:8080/paroisse/paroise/9352
+#EXTINF:-1,Pink Thriller RS
+http://iptv.rent:8080/paroisse/paroise/4995
+#EXTINF:-1,Pink Western RS
+http://iptv.rent:8080/paroisse/paroise/4994
+#EXTINF:-1,Pink World Cinema RS
+http://iptv.rent:8080/paroisse/paroise/9355
+#EXTINF:-1,Pink World RS
+http://iptv.rent:8080/paroisse/paroise/9354
+#EXTINF:-1,Pink Zabava RS
+http://iptv.rent:8080/paroisse/paroise/4993
+#EXTINF:-1,Kino TV HD RS
+http://iptv.rent:8080/paroisse/paroise/12396
+#EXTINF:-1,Crvena Zvezda TV RS
+http://iptv.rent:8080/paroisse/paroise/674090
+#EXTINF:-1,Partizan TV RS
+http://iptv.rent:8080/paroisse/paroise/13221
+#EXTINF:-1,SOS RS
+http://iptv.rent:8080/paroisse/paroise/13222
+#EXTINF:-1,Eurosport 1 RS
+http://iptv.rent:8080/paroisse/paroise/5056
+#EXTINF:-1,Eurosport 2 RS
+http://iptv.rent:8080/paroisse/paroise/5055
+#EXTINF:-1,Arena Sport 1 HD RS
+http://iptv.rent:8080/paroisse/paroise/5465
+#EXTINF:-1,Arena Sport 2 HD RS
+http://iptv.rent:8080/paroisse/paroise/5463
+#EXTINF:-1,Arena Sport 3 FHD RS
+http://iptv.rent:8080/paroisse/paroise/5461
+#EXTINF:-1,Arena Sport 4 HD RS
+http://iptv.rent:8080/paroisse/paroise/5459
+#EXTINF:-1,Arena Sport 5 HD RS
+http://iptv.rent:8080/paroisse/paroise/5456
+#EXTINF:-1,Sport Klub Golf RS
+http://iptv.rent:8080/paroisse/paroise/16422
+#EXTINF:-1,Sport Klub HD 1 RS
+http://iptv.rent:8080/paroisse/paroise/625234
+#EXTINF:-1,Sport Klub HD 2 RS
+http://iptv.rent:8080/paroisse/paroise/9407
+#EXTINF:-1,Sport Klub HD 3 RS
+http://iptv.rent:8080/paroisse/paroise/9406
+#EXTINF:-1,Sport Klub 4 HD RS
+http://iptv.rent:8080/paroisse/paroise/9405
+#EXTINF:-1,Sport Klub 5 HD RS
+http://iptv.rent:8080/paroisse/paroise/9404
+#EXTINF:-1,Sport Klub HD 6 RS
+http://iptv.rent:8080/paroisse/paroise/9403
+#EXTINF:-1,Nova Sport RS
+http://iptv.rent:8080/paroisse/paroise/674094
+#EXTINF:-1,Planet Sports 1 FHD HR VIP
+http://iptv.rent:8080/paroisse/paroise/623691
+#EXTINF:-1,Planet Sports 2 FHD HR VIP
+http://iptv.rent:8080/paroisse/paroise/623690
+#EXTINF:-1,Planet Sports 3 FHD HR VIP
+http://iptv.rent:8080/paroisse/paroise/623689
+#EXTINF:-1,Insajder TV RS
+http://iptv.rent:8080/paroisse/paroise/18924
+#EXTINF:-1,Cine Mania RS
+http://iptv.rent:8080/paroisse/paroise/13354
+#EXTINF:-1,DM Sat RS
+http://iptv.rent:8080/paroisse/paroise/9367
+#EXTINF:-1,Grand TV RS
+http://iptv.rent:8080/paroisse/paroise/5045
+#EXTINF:-1,Grand 2 TV RS
+http://iptv.rent:8080/paroisse/paroise/9390
+#EXTINF:-1,Jefimija TV RS
+http://iptv.rent:8080/paroisse/paroise/18919
+#EXTINF:-1,Leskovac TV RS
+http://iptv.rent:8080/paroisse/paroise/7889
+#EXTINF:-1,Mlava TV RS
+http://iptv.rent:8080/paroisse/paroise/7888
+#EXTINF:-1,Palma Plus RS
+http://iptv.rent:8080/paroisse/paroise/5022
+#EXTINF:-1,Vavoom RS
+http://iptv.rent:8080/paroisse/paroise/625453
+#EXTINF:-1,Yu Planet TV RS
+http://iptv.rent:8080/paroisse/paroise/639818
+#EXTINF:-1,Da Vinci Learning RS
+http://iptv.rent:8080/paroisse/paroise/657456
+#EXTINF:-1,Discovery Channel RS
+http://iptv.rent:8080/paroisse/paroise/657455
+#EXTINF:-1,Duga + RS
+http://iptv.rent:8080/paroisse/paroise/657460
+#EXTINF:-1,FenTv RS
+http://iptv.rent:8080/paroisse/paroise/657452
+#EXTINF:-1,Fine Living RS
+http://iptv.rent:8080/paroisse/paroise/657454
+#EXTINF:-1,Luxe TV RS
+http://iptv.rent:8080/paroisse/paroise/657453
+#EXTINF:-1,Superstar TV RS
+http://iptv.rent:8080/paroisse/paroise/657463
+#EXTINF:-1,Tesla Vision RS
+http://iptv.rent:8080/paroisse/paroise/674049
+#EXTINF:-1,RTV Bor RS
+http://iptv.rent:8080/paroisse/paroise/674050
+#EXTINF:-1,Bk TV RS
+http://iptv.rent:8080/paroisse/paroise/674091
+#EXTINF:-1,Roma TV RS
+http://iptv.rent:8080/paroisse/paroise/674092
+#EXTINF:-1,Kafanska TV RS
+http://iptv.rent:8080/paroisse/paroise/674093
+#EXTINF:-1,Cityplay RS
+http://iptv.rent:8080/paroisse/paroise/674095
+#EXTINF:-1,HRT 1 HD HR
+http://iptv.rent:8080/paroisse/paroise/5037
+#EXTINF:-1,HRT 1 (Backup) HR
+http://iptv.rent:8080/paroisse/paroise/10416
+#EXTINF:-1,HRT 2 HR
+http://iptv.rent:8080/paroisse/paroise/5036
+#EXTINF:-1,HRT 2 (Backup) HR
+http://iptv.rent:8080/paroisse/paroise/10415
+#EXTINF:-1,HRT 3 HR
+http://iptv.rent:8080/paroisse/paroise/5035
+#EXTINF:-1,HRT 3 (Backup) HR
+http://iptv.rent:8080/paroisse/paroise/10414
+#EXTINF:-1,HRT 4 HR
+http://iptv.rent:8080/paroisse/paroise/5033
+#EXTINF:-1,HRT 4 (Backup) HR
+http://iptv.rent:8080/paroisse/paroise/10413
+#EXTINF:-1,HRT Int. HR
+http://iptv.rent:8080/paroisse/paroise/23780
+#EXTINF:-1,RTL HD HR
+http://iptv.rent:8080/paroisse/paroise/4985
+#EXTINF:-1,RTL (Backup) HR
+http://iptv.rent:8080/paroisse/paroise/10412
+#EXTINF:-1,RTL 2 HR
+http://iptv.rent:8080/paroisse/paroise/4984
+#EXTINF:-1,RTL Crime HR
+http://iptv.rent:8080/paroisse/paroise/4983
+#EXTINF:-1,RTL Kockica HR
+http://iptv.rent:8080/paroisse/paroise/4980
+#EXTINF:-1,RTL Living HR
+http://iptv.rent:8080/paroisse/paroise/4982
+#EXTINF:-1,RTL Passion HR
+http://iptv.rent:8080/paroisse/paroise/4981
+#EXTINF:-1,Nova World HR
+http://iptv.rent:8080/paroisse/paroise/15448
+#EXTINF:-1,Nova TV HD HR
+http://iptv.rent:8080/paroisse/paroise/5027
+#EXTINF:-1,Nova TV SD HR
+http://iptv.rent:8080/paroisse/paroise/10411
+#EXTINF:-1,Doma TV HD HR
+http://iptv.rent:8080/paroisse/paroise/23193
+#EXTINF:-1,Doma TV SD HR
+http://iptv.rent:8080/paroisse/paroise/5057
+#EXTINF:-1,N1 TV HD HR
+http://iptv.rent:8080/paroisse/paroise/9391
+#EXTINF:-1,N1 Hrvatska HR
+http://iptv.rent:8080/paroisse/paroise/5029
+#EXTINF:-1,Z1 HR
+http://iptv.rent:8080/paroisse/paroise/4964
+#EXTINF:-1,TV Banovina HR
+http://iptv.rent:8080/paroisse/paroise/9377
+#EXTINF:-1,TV Istra HR
+http://iptv.rent:8080/paroisse/paroise/13452
+#EXTINF:-1,Slavonska TV HR
+http://iptv.rent:8080/paroisse/paroise/11036
+#EXTINF:-1,Osjecka HR
+http://iptv.rent:8080/paroisse/paroise/5024
+#EXTINF:-1,Trend TV Karlovac HR
+http://iptv.rent:8080/paroisse/paroise/13449
+#EXTINF:-1,VTV Varazdin HR
+http://iptv.rent:8080/paroisse/paroise/13443
+#EXTINF:-1,Laudato TV HR
+http://iptv.rent:8080/paroisse/paroise/13333
+#EXTINF:-1,MTV Adria HR
+http://iptv.rent:8080/paroisse/paroise/11037
+#EXTINF:-1,CMC Music HR
+http://iptv.rent:8080/paroisse/paroise/9366
+#EXTINF:-1,Kanal Ri HR
+http://iptv.rent:8080/paroisse/paroise/13338
+#EXTINF:-1,Vinkovacka TV HR
+http://iptv.rent:8080/paroisse/paroise/4965
+#EXTINF:-1,Zdrava TV HR
+http://iptv.rent:8080/paroisse/paroise/13334
+#EXTINF:-1,Jugoton TV HR
+http://iptv.rent:8080/paroisse/paroise/11042
+#EXTINF:-1,Jadran TV HR
+http://iptv.rent:8080/paroisse/paroise/16425
+#EXTINF:-1,Jabuka TV HR
+http://iptv.rent:8080/paroisse/paroise/16426
+#EXTINF:-1,Srce TV HR
+http://iptv.rent:8080/paroisse/paroise/13344
+#EXTINF:-1,Narodna TV HR
+http://iptv.rent:8080/paroisse/paroise/13223
+#EXTINF:-1,TLC HR
+http://iptv.rent:8080/paroisse/paroise/9373
+#EXTINF:-1,Klasik TV HR
+http://iptv.rent:8080/paroisse/paroise/5032
+#EXTINF:-1,Diva HR
+http://iptv.rent:8080/paroisse/paroise/5058
+#EXTINF:-1,M1 Film HR
+http://iptv.rent:8080/paroisse/paroise/5031
+#EXTINF:-1,M1 Gold HR
+http://iptv.rent:8080/paroisse/paroise/674111
+#EXTINF:-1,AXN Adria HR
+http://iptv.rent:8080/paroisse/paroise/5074
+#EXTINF:-1,AXN Spin HR
+http://iptv.rent:8080/paroisse/paroise/23186
+#EXTINF:-1,DocuBox HR
+http://iptv.rent:8080/paroisse/paroise/23184
+#EXTINF:-1,SciFi HR
+http://iptv.rent:8080/paroisse/paroise/11033
+#EXTINF:-1,AMC HR
+http://iptv.rent:8080/paroisse/paroise/13226
+#EXTINF:-1,TV 1000 HR
+http://iptv.rent:8080/paroisse/paroise/9372
+#EXTINF:-1,Fox HR
+http://iptv.rent:8080/paroisse/paroise/5050
+#EXTINF:-1,Fox Crime HR
+http://iptv.rent:8080/paroisse/paroise/5049
+#EXTINF:-1,Fox Life HR
+http://iptv.rent:8080/paroisse/paroise/5048
+#EXTINF:-1,Fox Movies HR
+http://iptv.rent:8080/paroisse/paroise/5047
+#EXTINF:-1,HBO HD HR
+http://iptv.rent:8080/paroisse/paroise/5041
+#EXTINF:-1,HBO 2 FHD HR
+http://iptv.rent:8080/paroisse/paroise/5040
+#EXTINF:-1,HBO 3 HD HR
+http://iptv.rent:8080/paroisse/paroise/5039
+#EXTINF:-1,HBO GO HR
+http://iptv.rent:8080/paroisse/paroise/13391
+#EXTINF:-1,CineStar Premiere 1 HR
+http://iptv.rent:8080/paroisse/paroise/5065
+#EXTINF:-1,CineStar Premiere 1 (B) HR
+http://iptv.rent:8080/paroisse/paroise/11490
+#EXTINF:-1,CineStar Premiere 2 HR
+http://iptv.rent:8080/paroisse/paroise/5064
+#EXTINF:-1,CineStar Premiere 2 (B) HR
+http://iptv.rent:8080/paroisse/paroise/11489
+#EXTINF:-1,Cinestar TV HR
+http://iptv.rent:8080/paroisse/paroise/5063
+#EXTINF:-1,CineStar TV Action HR
+http://iptv.rent:8080/paroisse/paroise/5062
+#EXTINF:-1,CineStar TV Fantasy HD HR
+http://iptv.rent:8080/paroisse/paroise/11053
+#EXTINF:-1,CineMax 1 HR
+http://iptv.rent:8080/paroisse/paroise/5067
+#EXTINF:-1,Cinemax 2 HR
+http://iptv.rent:8080/paroisse/paroise/9375
+#EXTINF:-1,Nick Jr HR
+http://iptv.rent:8080/paroisse/paroise/8973
+#EXTINF:-1,Nickelodeon HR
+http://iptv.rent:8080/paroisse/paroise/9380
+#EXTINF:-1,Baby TV HR
+http://iptv.rent:8080/paroisse/paroise/11054
+#EXTINF:-1,Mini TV HR
+http://iptv.rent:8080/paroisse/paroise/9371
+#EXTINF:-1,E! HR
+http://iptv.rent:8080/paroisse/paroise/9379
+#EXTINF:-1,24 Kitchen HR
+http://iptv.rent:8080/paroisse/paroise/9378
+#EXTINF:-1,Animal Planet HR
+http://iptv.rent:8080/paroisse/paroise/5077
+#EXTINF:-1,Discovery Channel HR
+http://iptv.rent:8080/paroisse/paroise/5059
+#EXTINF:-1,Discovery ID HR
+http://iptv.rent:8080/paroisse/paroise/11052
+#EXTINF:-1,Discovery DTX HR
+http://iptv.rent:8080/paroisse/paroise/675351
+#EXTINF:-1,Crime & Investigation HR
+http://iptv.rent:8080/paroisse/paroise/5061
+#EXTINF:-1,CBS Reality HR
+http://iptv.rent:8080/paroisse/paroise/12384
+#EXTINF:-1,Lov I Ribolov HR
+http://iptv.rent:8080/paroisse/paroise/9368
+#EXTINF:-1,History Channel HR
+http://iptv.rent:8080/paroisse/paroise/9384
+#EXTINF:-1,History 2 HR
+http://iptv.rent:8080/paroisse/paroise/11044
+#EXTINF:-1,National Geographic HR
+http://iptv.rent:8080/paroisse/paroise/5028
+#EXTINF:-1,Nat Geo Wild HR
+http://iptv.rent:8080/paroisse/paroise/11049
+#EXTINF:-1,Travel Channel HR
+http://iptv.rent:8080/paroisse/paroise/9382
+#EXTINF:-1,Viasat Explorer HR
+http://iptv.rent:8080/paroisse/paroise/9381
+#EXTINF:-1,Viasat History HR
+http://iptv.rent:8080/paroisse/paroise/9383
+#EXTINF:-1,Viasat Nature HR
+http://iptv.rent:8080/paroisse/paroise/16421
+#EXTINF:-1,Kreator TV HR
+http://iptv.rent:8080/paroisse/paroise/13224
+#EXTINF:-1,HNTV HR
+http://iptv.rent:8080/paroisse/paroise/11045
+#EXTINF:-1,Max Select 1 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20035
+#EXTINF:-1,Max Select 2 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20034
+#EXTINF:-1,Max Select 3 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20033
+#EXTINF:-1,Max Select 4 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20032
+#EXTINF:-1,Max Select 5 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20031
+#EXTINF:-1,Max Select 6 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20030
+#EXTINF:-1,Max Select 7 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20029
+#EXTINF:-1,Max Select 8 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20028
+#EXTINF:-1,Max Select 9 FHD HR
+http://iptv.rent:8080/paroisse/paroise/20027
+#EXTINF:-1,Fight Channel HR
+http://iptv.rent:8080/paroisse/paroise/25974
+#EXTINF:-1,Sportska TV HR
+http://iptv.rent:8080/paroisse/paroise/9416
+#EXTINF:-1,Classic Tom And Jerry HR
+http://iptv.rent:8080/paroisse/paroise/657466
+#EXTINF:-1,MTV Dance HR
+http://iptv.rent:8080/paroisse/paroise/657470
+#EXTINF:-1,IDJ TV HD HR
+http://iptv.rent:8080/paroisse/paroise/657469
+#EXTINF:-1,BBC Earth HD HR
+http://iptv.rent:8080/paroisse/paroise/674012
+#EXTINF:-1,BHT HD BIH
+http://iptv.rent:8080/paroisse/paroise/9360
+#EXTINF:-1,BHT 1 BIH
+http://iptv.rent:8080/paroisse/paroise/5071
+#EXTINF:-1,N1 Bosna BIH
+http://iptv.rent:8080/paroisse/paroise/10410
+#EXTINF:-1,Nova BH BIH
+http://iptv.rent:8080/paroisse/paroise/625455
+#EXTINF:-1,Al Jazeera Balkan BIH
+http://iptv.rent:8080/paroisse/paroise/5076
+#EXTINF:-1,Arena Sport BIH
+http://iptv.rent:8080/paroisse/paroise/675211
+#EXTINF:-1,TV USK HD BIH
+http://iptv.rent:8080/paroisse/paroise/4967
+#EXTINF:-1,ATV BIH
+http://iptv.rent:8080/paroisse/paroise/5075
+#EXTINF:-1,BN Sat BIH
+http://iptv.rent:8080/paroisse/paroise/5069
+#EXTINF:-1,Federalna TV BIH
+http://iptv.rent:8080/paroisse/paroise/5053
+#EXTINF:-1,TV Sarajevo BIH
+http://iptv.rent:8080/paroisse/paroise/4966
+#EXTINF:-1,Face TV BIH
+http://iptv.rent:8080/paroisse/paroise/5054
+#EXTINF:-1,Super TV BIH
+http://iptv.rent:8080/paroisse/paroise/12391
+#EXTINF:-1,Moja TV BiH
+http://iptv.rent:8080/paroisse/paroise/638022
+#EXTINF:-1,OBN BIH
+http://iptv.rent:8080/paroisse/paroise/5025
+#EXTINF:-1,Hayat BIH
+http://iptv.rent:8080/paroisse/paroise/11050
+#EXTINF:-1,Hayat Folk BIH
+http://iptv.rent:8080/paroisse/paroise/5042
+#EXTINF:-1,Hayat HD BIH
+http://iptv.rent:8080/paroisse/paroise/5043
+#EXTINF:-1,Hayat Music BIH
+http://iptv.rent:8080/paroisse/paroise/9401
+#EXTINF:-1,Hayat Plus BIH
+http://iptv.rent:8080/paroisse/paroise/9402
+#EXTINF:-1,Hayatovci BIH
+http://iptv.rent:8080/paroisse/paroise/9400
+#EXTINF:-1,HIT Televizija BIH
+http://iptv.rent:8080/paroisse/paroise/13352
+#EXTINF:-1,MTV Igman HD BIH
+http://iptv.rent:8080/paroisse/paroise/5038
+#EXTINF:-1,TV5 BIH
+http://iptv.rent:8080/paroisse/paroise/9395
+#EXTINF:-1,Meka TV BIH
+http://iptv.rent:8080/paroisse/paroise/9361
+#EXTINF:-1,Medina TV BIH
+http://iptv.rent:8080/paroisse/paroise/675174
+#EXTINF:-1,RTV Zenica BIH
+http://iptv.rent:8080/paroisse/paroise/11032
+#EXTINF:-1,RTRS BIH
+http://iptv.rent:8080/paroisse/paroise/4987
+#EXTINF:-1,RTRS Plus BIH
+http://iptv.rent:8080/paroisse/paroise/4986
+#EXTINF:-1,OTV Valentino BIH
+http://iptv.rent:8080/paroisse/paroise/5023
+#EXTINF:-1,Posavina TV BIH
+http://iptv.rent:8080/paroisse/paroise/4992
+#EXTINF:-1,Planeta TV BIH
+http://iptv.rent:8080/paroisse/paroise/635094
+#EXTINF:-1,Sevdah TV BIH
+http://iptv.rent:8080/paroisse/paroise/9399
+#EXTINF:-1,TV Sehara HD BIH
+http://iptv.rent:8080/paroisse/paroise/9398
+#EXTINF:-1,City TV BIH
+http://iptv.rent:8080/paroisse/paroise/13317
+#EXTINF:-1,Alfa TV BIH
+http://iptv.rent:8080/paroisse/paroise/11449
+#EXTINF:-1,TV Slon Extra BIH
+http://iptv.rent:8080/paroisse/paroise/12393
+#EXTINF:-1,Glas Drine TV BIH
+http://iptv.rent:8080/paroisse/paroise/12394
+#EXTINF:-1,TV TK Tuzla BIH
+http://iptv.rent:8080/paroisse/paroise/12398
+#EXTINF:-1,TV TK Tuzla (Backup) BIH
+http://iptv.rent:8080/paroisse/paroise/23779
+#EXTINF:-1,O Kanal BIH
+http://iptv.rent:8080/paroisse/paroise/5068
+#EXTINF:-1,Kanal 6 HD BIH
+http://iptv.rent:8080/paroisse/paroise/12537
+#EXTINF:-1,Moj Kanal BIH
+http://iptv.rent:8080/paroisse/paroise/13454
+#EXTINF:-1,BN Music BIH
+http://iptv.rent:8080/paroisse/paroise/9394
+#EXTINF:-1,Izvorna TV BIH
+http://iptv.rent:8080/paroisse/paroise/9376
+#EXTINF:-1,Vikom TV BIH
+http://iptv.rent:8080/paroisse/paroise/13329
+#EXTINF:-1,TV 1 BIH
+http://iptv.rent:8080/paroisse/paroise/4972
+#EXTINF:-1,TV 101 BIH
+http://iptv.rent:8080/paroisse/paroise/4970
+#EXTINF:-1,BN TV BIH
+http://iptv.rent:8080/paroisse/paroise/5070
+#EXTINF:-1,K3 Prnjavor BIH
+http://iptv.rent:8080/paroisse/paroise/23181
+#EXTINF:-1,Dobra Balkanska HD BiH
+http://iptv.rent:8080/paroisse/paroise/654827
+#EXTINF:-1,Dobra Bosnjacka BiH
+http://iptv.rent:8080/paroisse/paroise/654826
+#EXTINF:-1,Dobra Cinema HD BiH
+http://iptv.rent:8080/paroisse/paroise/654825
+#EXTINF:-1,Dobra Cinema + HD BiH
+http://iptv.rent:8080/paroisse/paroise/654824
+#EXTINF:-1,Dobra Crnogorska HD BiH
+http://iptv.rent:8080/paroisse/paroise/654823
+#EXTINF:-1,Dobra Djecija BiH
+http://iptv.rent:8080/paroisse/paroise/654822
+#EXTINF:-1,Dobra Exclusive HD BiH
+http://iptv.rent:8080/paroisse/paroise/654821
+#EXTINF:-1,Dobra Islamska HD BiH
+http://iptv.rent:8080/paroisse/paroise/654820
+#EXTINF:-1,Dobra Muzicka BiH
+http://iptv.rent:8080/paroisse/paroise/654819
+#EXTINF:-1,Dobra Nasheed HD BiH
+http://iptv.rent:8080/paroisse/paroise/654817
+#EXTINF:-1,Dobra Plus HD BiH
+http://iptv.rent:8080/paroisse/paroise/654816
+#EXTINF:-1,Dobra S-Makedonija HD BiH
+http://iptv.rent:8080/paroisse/paroise/654815
+#EXTINF:-1,Dobra Sportska HD BiH
+http://iptv.rent:8080/paroisse/paroise/654814
+#EXTINF:-1,Dobra Srpska HD BiH
+http://iptv.rent:8080/paroisse/paroise/654813
+#EXTINF:-1,Dobra World Music HD BiH
+http://iptv.rent:8080/paroisse/paroise/654812
+#EXTINF:-1,Dobra Ruska BiH
+http://iptv.rent:8080/paroisse/paroise/663520
+#EXTINF:-1,Dobra Sevdah BiH
+http://iptv.rent:8080/paroisse/paroise/663521
+#EXTINF:-1,Dobra Svadba BiH
+http://iptv.rent:8080/paroisse/paroise/663522
+#EXTINF:-1,Dobra Travel BiH
+http://iptv.rent:8080/paroisse/paroise/663523
